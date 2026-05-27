@@ -82,3 +82,5 @@ android-sdk/
 
 # Environment variables
 .env
+.gitconfig
+.emergent/
