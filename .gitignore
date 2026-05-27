@@ -84,3 +84,5 @@ android-sdk/
 .env
 .gitconfig
 .emergent/
+.gitconfig
+.emergent/
