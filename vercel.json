@@ -1,0 +1,8 @@
+{
+  "version": 2,
+  "buildCommand": "",
+  "outputDirectory": "frontend/build",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
+}
