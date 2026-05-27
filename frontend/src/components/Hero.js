@@ -8,7 +8,7 @@ function Hero() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-20"
         style={{
-          backgroundImage: "url('https://images.unsplash.com/photo-1597733336794-12d05021d510')"
+          backgroundImage: "url('https://images.unsplash.com/photo-1597733336794-12d05021d510?w=1920&q=75&auto=format&fit=crop')"
         }}
       ></div>
 

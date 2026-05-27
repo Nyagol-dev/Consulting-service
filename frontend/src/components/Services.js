@@ -15,9 +15,13 @@ function Services() {
           <div className="service-card bg-slate-800/50 backdrop-blur-sm rounded-xl p-8 hover:transform hover:scale-105 transition-all duration-300">
             <div className="mb-6">
               <img
-                src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b"
+                src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=600&q=75&auto=format&fit=crop"
                 alt="Penetration Testing"
                 className="w-full h-48 object-cover rounded-lg"
+                loading="lazy"
+                decoding="async"
+                width="600"
+                height="192"
               />
             </div>
             <h3 className="text-2xl font-bold text-white mb-4">Penetration Testing</h3>
@@ -36,9 +40,13 @@ function Services() {
           <div className="service-card bg-slate-800/50 backdrop-blur-sm rounded-xl p-8 hover:transform hover:scale-105 transition-all duration-300">
             <div className="mb-6">
               <img
-                src="https://images.unsplash.com/photo-1593407089396-93f0c7a575f0"
+                src="https://images.unsplash.com/photo-1593407089396-93f0c7a575f0?w=600&q=75&auto=format&fit=crop"
                 alt="Security Compliance"
                 className="w-full h-48 object-cover rounded-lg"
+                loading="lazy"
+                decoding="async"
+                width="600"
+                height="192"
               />
             </div>
             <h3 className="text-2xl font-bold text-white mb-4">Security Compliance</h3>
@@ -57,9 +65,13 @@ function Services() {
           <div className="service-card bg-slate-800/50 backdrop-blur-sm rounded-xl p-8 hover:transform hover:scale-105 transition-all duration-300">
             <div className="mb-6">
               <img
-                src="https://images.pexels.com/photos/5475750/pexels-photo-5475750.jpeg"
+                src="https://images.pexels.com/photos/5475750/pexels-photo-5475750.jpeg?w=600&h=192&fit=crop&auto=compress"
                 alt="Risk Assessment"
                 className="w-full h-48 object-cover rounded-lg"
+                loading="lazy"
+                decoding="async"
+                width="600"
+                height="192"
               />
             </div>
             <h3 className="text-2xl font-bold text-white mb-4">Risk Assessment</h3>
@@ -78,9 +90,13 @@ function Services() {
           <div className="service-card bg-slate-800/50 backdrop-blur-sm rounded-xl p-8 hover:transform hover:scale-105 transition-all duration-300">
             <div className="mb-6">
               <img
-                src="https://images.unsplash.com/photo-1639815188507-f99cc0aae22f"
+                src="https://images.unsplash.com/photo-1639815188507-f99cc0aae22f?w=600&q=75&auto=format&fit=crop"
                 alt="Incident Response"
                 className="w-full h-48 object-cover rounded-lg"
+                loading="lazy"
+                decoding="async"
+                width="600"
+                height="192"
               />
             </div>
             <h3 className="text-2xl font-bold text-white mb-4">Incident Response</h3>
@@ -99,9 +115,13 @@ function Services() {
           <div className="service-card bg-slate-800/50 backdrop-blur-sm rounded-xl p-8 hover:transform hover:scale-105 transition-all duration-300">
             <div className="mb-6">
               <img
-                src="https://images.unsplash.com/photo-1590494165264-1ebe3602eb80"
+                src="https://images.unsplash.com/photo-1590494165264-1ebe3602eb80?w=600&q=75&auto=format&fit=crop"
                 alt="Security Training"
                 className="w-full h-48 object-cover rounded-lg"
+                loading="lazy"
+                decoding="async"
+                width="600"
+                height="192"
               />
             </div>
             <h3 className="text-2xl font-bold text-white mb-4">Security Training</h3>
@@ -120,9 +140,13 @@ function Services() {
           <div className="service-card bg-slate-800/50 backdrop-blur-sm rounded-xl p-8 hover:transform hover:scale-105 transition-all duration-300">
             <div className="mb-6">
               <img
-                src="https://images.pexels.com/photos/6075005/pexels-photo-6075005.jpeg"
+                src="https://images.pexels.com/photos/6075005/pexels-photo-6075005.jpeg?w=600&h=192&fit=crop&auto=compress"
                 alt="Security Architecture"
                 className="w-full h-48 object-cover rounded-lg"
+                loading="lazy"
+                decoding="async"
+                width="600"
+                height="192"
               />
             </div>
             <h3 className="text-2xl font-bold text-white mb-4">Security Architecture</h3>

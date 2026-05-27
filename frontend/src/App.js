@@ -135,7 +135,7 @@ function App() {
             <div className="testimonial-card bg-slate-700/50 backdrop-blur-sm rounded-xl p-8 hover:transform hover:scale-105 transition-all duration-300">
               <div className="mb-6">
                 <img 
-                  src="https://images.pexels.com/photos/7616608/pexels-photo-7616608.jpeg" 
+                  src="https://images.pexels.com/photos/7616608/pexels-photo-7616608.jpeg?w=128&h=128&fit=crop&auto=compress" 
                   alt="Sarah Johnson" 
                   className="w-16 h-16 rounded-full object-cover mx-auto mb-4"
                 />
@@ -161,7 +161,7 @@ function App() {
             <div className="testimonial-card bg-slate-700/50 backdrop-blur-sm rounded-xl p-8 hover:transform hover:scale-105 transition-all duration-300">
               <div className="mb-6">
                 <img 
-                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d" 
+                  src="https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=128&h=128&q=75&auto=format&fit=crop" 
                   alt="Michael Chen" 
                   className="w-16 h-16 rounded-full object-cover mx-auto mb-4"
                 />
@@ -187,7 +187,7 @@ function App() {
             <div className="testimonial-card bg-slate-700/50 backdrop-blur-sm rounded-xl p-8 hover:transform hover:scale-105 transition-all duration-300">
               <div className="mb-6">
                 <img 
-                  src="https://images.unsplash.com/photo-1494790108755-2616b2e0b1b8" 
+                  src="https://images.unsplash.com/photo-1494790108755-2616b2e0b1b8?w=128&h=128&q=75&auto=format&fit=crop" 
                   alt="Emily Rodriguez" 
                   className="w-16 h-16 rounded-full object-cover mx-auto mb-4"
                 />
